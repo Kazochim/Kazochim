@@ -54,12 +54,12 @@
 <table align="center">
   <tr>
     <td align="center" width="150px" valign="top">
-      <img width="100" height="100" src="[https://cdn.discordapp.com/avatars/920508073423028274/4810e17212ad70d83e36b63ac0a4b30d.webp](https://cdn.discordapp.com/avatars/779507251282968587/3897b3f65ff0821ac3057c0de7ff3294.webp?size=1024)">
+      <img width="100" height="100" src="https://cdn.discordapp.com/avatars/779507251282968587/3897b3f65ff0821ac3057c0de7ff3294.webp?size=1024">
       <br>
       <img src="https://img.shields.io/badge/🔴-0d1117?style=flat-square&labelColor=0d1117" alt="Status">
     </td>
     <td align="left">
-      <h3>Sáng <code>#Kazochim</code></h3>
+      <h3>Kazona <code>#Kazochim</code></h3>
       <p>
         <img src="https://img.shields.io/badge/Owner-e91e63?style=flat-square" alt="Role">
       </p>
