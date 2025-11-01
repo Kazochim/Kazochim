@@ -39,39 +39,25 @@
 
 ---
 
-### 🌐 My Ecosystem
-| Area | Description |
-|------|--------------|
-| 🧱 **Kazora Project** | Personal dev ecosystem — tools, bots, and sites I build. |
-| 🤖 **Discord Dev** | Creating utility bots & interactive systems for servers. |
-| 💼 **Open Source** | Sharing my work for the community — transparency first. |
+### 🌐 My Ecosystem  
+<div align="center">
+
+| 🌍 Dự Án | 💡 Mô Tả |
+|:--|:--|
+| 🧱 **Kazora Project** | Hệ sinh thái dự án cá nhân – bao gồm web tools, bots, và các sản phẩm mã nguồn mở. |
+| 🤖 **Discord Dev** | Phát triển bot tiện ích và hệ thống tương tác cộng đồng tự động. |
+| 💼 **Open Source** | Đóng góp vào mã nguồn mở, chia sẻ kiến thức & xây dựng cộng đồng. |
+
+</div>
 
 ---
 
-### 🎮 Discord Presence
+### 🎮 Discord Presence  
 <div align="center">
-  <img src="https://img.shields.io/badge/Discord-kazochim-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://discord.com/users/779507251282968587">
+    <img src="https://lanyard.cnrad.dev/api/779507251282968587?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20something..." alt="Kazona Discord Presence" />
+  </a>
 </div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <img width="100" height="100" src="https://cdn.discordapp.com/avatars/779507251282968587/3897b3f65ff0821ac3057c0de7ff3294.webp?size=1024">
-      <br><img src="https://img.shields.io/badge/🟢%20Online-0d1117?style=flat-square" alt="Status">
-    </td>
-    <td align="left">
-      <h3>Kazona <code>#Kazochim</code></h3>
-      <p><img src="https://img.shields.io/badge/Owner-e91e63?style=flat-square"></p>
-      <p>
-        <img src="https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png" width="20" height="20" />
-        <img src="https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png" width="20" height="20" />
-      </p>
-      <blockquote>
-        <b>Profile</b><br><i>Student | Developer | Builder</i><br>Creating, learning, and sharing knowledge every day.
-      </blockquote>
-    </td>
-  </tr>
-</table>
 
 ---
 
